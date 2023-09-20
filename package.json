@@ -9,6 +9,10 @@
   "author": "Dongze Li",
   "license": "MIT",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "reload": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
   }
 }

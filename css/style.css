@@ -1,0 +1,12 @@
+.navbar-brand-with-image {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+.fas fa-bars {
+    color: white;
+}
+
+.masthead {
+        background-color: gainsboro;
+        background-size: cover;
+        padding-top: 100px;
+}
