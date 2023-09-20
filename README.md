@@ -3,7 +3,7 @@
 Welcome to Dongze's Homepage
 , a personal homepage project showcasing my skills, projects, courses, and interests. This interactive homepage offers insights into my journey in the world of computer science and technology.
 
-![Screenshot](./images/Screenshot.png)
+![Screenshot](./images/CleanShot 2023-09-20 at 14.30.30.gif)
 
 ## Table of Contents
 
