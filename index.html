@@ -83,6 +83,7 @@
                 style="max-width: 200px"
               />
               <h1>All my blogs</h1>
+              <div id="cardCount">Current Blog Numbers: 0</div>
             </div>
           </div>
         </div>
@@ -166,6 +167,21 @@
         </div>
       </div>
     </footer>
+
+    <!-- JavaScript Function to Count Blogs -->
+    <script>
+      // Function to count and display the number of card elements
+      function countCards() {
+        const cardElements = document.querySelectorAll(".card"); // Assuming the card class is "card"
+        const cardCountElement = document.getElementById("cardCount");
+
+        // Update the count
+        cardCountElement.textContent = `${cardElements.length} blogs have been published!`;
+      }
+
+      // Call the countCards function to initialize the count
+      countCards();
+    </script>
 
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
