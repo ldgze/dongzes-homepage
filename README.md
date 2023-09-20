@@ -14,14 +14,14 @@ Welcome to Dongze's Homepage
   - [Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Design-document](#design-document)
   - [Contributing](#contributing)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
-"Dongze's Homepage
-" is a personalized digital space where you can explore my experiences, skills, and the projects I've worked on during my computer science journey at Northeastern University. This homepage serves as a window into my world, offering a glimpse of my academic and professional pursuits.
+"Dongze's Homepage" is a personalized digital space where you can explore my experiences, skills, and the projects I've worked on during my computer science journey at Northeastern University. This homepage serves as a window into my world, offering a glimpse of my academic and professional pursuits. This is also the first project of [CS5610 Web Development course](https://johnguerra.co/classes/webDevelopment_fall_2023/) at Northeastern University.
 
 ## Features
 
@@ -75,6 +75,10 @@ To run this project locally, follow these steps:
 ## Usage
 
 Explore the homepage to learn more about my skills, projects, and academic journey. Feel free to reach out to me using the provided contact information if you have any questions or opportunities to discuss.
+
+## Design-document
+
+For the design document of this project, please refer to [Design Document](./design-document.md).
 
 ## Contributing
 
