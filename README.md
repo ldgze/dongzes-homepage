@@ -34,7 +34,7 @@ Welcome to Dongze's Homepage
 ## Demo
 
 You can access the live demo of Dongze's Homepage
-at [Demo Link](https://your-demo-link-here.com).
+at [Demo Link](https://ldgze.github.io/dongzes-homepage).
 
 ## Installation
 
@@ -43,14 +43,14 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ldgze/dongzes-digital-odyssey.git
+   git clone https://github.com/ldgze/dongzes-homepage.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dongzes-digital-odyssey
+   cd dongzes-homepage
 
    ```
 
