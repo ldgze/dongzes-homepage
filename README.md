@@ -6,14 +6,16 @@ Welcome to Dongze's Digital Odyssey, a personal homepage project showcasing my s
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Dongze's Digital Odyssey](#dongzes-digital-odyssey)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -50,11 +52,9 @@ To run this project locally, follow these steps:
 
 4. Start the HTTP server in the project directory:
    ```bash
-   http-server
+   npx http-server
 
-5. Open your web browser and navigate to the following URL:
-   ```bash
-   http://127.0.0.1:8080
+5. Open your web browser and navigate to the URL provided by the http-server. Typically, it will be http://127.0.0.1:8080 or http://localhost:8080
 
 6. You should now be able to view and interact with the project locally.
 
