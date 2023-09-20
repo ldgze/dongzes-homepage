@@ -1,12 +1,13 @@
-# Dongze's Digital Odyssey
+# Dongze's Homepage
 
-Welcome to Dongze's Digital Odyssey, a personal homepage project showcasing my skills, projects, courses, and interests. This interactive homepage offers insights into my journey in the world of computer science and technology.
+Welcome to Dongze's Homepage
+, a personal homepage project showcasing my skills, projects, courses, and interests. This interactive homepage offers insights into my journey in the world of computer science and technology.
 
 ![Screenshot](screenshot.png)
 
 ## Table of Contents
 
-- [Dongze's Digital Odyssey](#dongzes-digital-odyssey)
+- [Dongze's Homepage](#dongzes-homepage)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
@@ -19,7 +20,8 @@ Welcome to Dongze's Digital Odyssey, a personal homepage project showcasing my s
 
 ## Introduction
 
-"Dongze's Digital Odyssey" is a personalized digital space where you can explore my experiences, skills, and the projects I've worked on during my computer science journey at Northeastern University. This homepage serves as a window into my world, offering a glimpse of my academic and professional pursuits.
+"Dongze's Homepage
+" is a personalized digital space where you can explore my experiences, skills, and the projects I've worked on during my computer science journey at Northeastern University. This homepage serves as a window into my world, offering a glimpse of my academic and professional pursuits.
 
 ## Features
 
@@ -31,7 +33,8 @@ Welcome to Dongze's Digital Odyssey, a personal homepage project showcasing my s
 
 ## Demo
 
-You can access the live demo of Dongze's Digital Odyssey at [Demo Link](https://your-demo-link-here.com).
+You can access the live demo of Dongze's Homepage
+at [Demo Link](https://your-demo-link-here.com).
 
 ## Installation
 
@@ -42,26 +45,39 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/ldgze/dongzes-digital-odyssey.git
 
+   ```
+
 2. Navigate to the project directory:
+
    ```bash
    cd dongzes-digital-odyssey
 
+   ```
+
 3. Install project dependencies using npm:
+
    ```bash
    npm install
 
+   ```
+
 4. Start the HTTP server in the project directory:
+
    ```bash
    npx http-server
+
+   ```
 
 5. Open your web browser and navigate to the URL provided by the http-server. Typically, it will be http://127.0.0.1:8080 or http://localhost:8080
 
 6. You should now be able to view and interact with the project locally.
 
 ## Usage
+
 Explore the homepage to learn more about my skills, projects, and academic journey. Feel free to reach out to me using the provided contact information if you have any questions or opportunities to discuss.
 
 ## Contributing
+
 If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository on GitHub.
@@ -72,8 +88,9 @@ If you'd like to contribute to this project, please follow these steps:
 6. Create a pull request to the original repository.
 
 ## License
+
 This project is licensed under the MIT License. See the [LICENSE]() file for details.
 
 ## Acknowledgments
-I would like to express my gratitude to the Northeastern University community, my professors, and my peers for their support and inspiration throughout my academic journey.
 
+I would like to express my gratitude to the Northeastern University community, my professors, and my peers for their support and inspiration throughout my academic journey.
